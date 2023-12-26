@@ -1,4 +1,4 @@
-program token_sapkaatk.aleo {
+program tokensapkaatk.aleo {
 
     mapping account:address => u64;
 
