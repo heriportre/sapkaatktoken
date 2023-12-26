@@ -1,4 +1,3 @@
-# templateankara.aleo
 
 ## Build Guide
 
